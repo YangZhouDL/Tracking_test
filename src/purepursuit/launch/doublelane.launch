@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="purepursuit" type="double_lane" name="double_lane" output="screen"/>
+</launch>
